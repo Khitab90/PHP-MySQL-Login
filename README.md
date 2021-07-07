@@ -2,8 +2,9 @@
 
 Signup
 
-![Screenshot](Screen\ Shot\ 2021-07-06\ at\ 9.56.21\ PM.png)
+<img src="Screen\ Shot\ 2021-07-06\ at\ 9.56.09\ PM.png" alt="Signup"/>
 
 Login
 
-![Screenshot](Screen\ Shot\ 2021-07-06\ at\ 9.56.09\ PM.png)
+<img src="Screen\ Shot\ 2021-07-06\ at\ 9.56.21\ PM.png" alt="Signup"/>
+
